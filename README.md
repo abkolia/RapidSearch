@@ -1,2 +1,2 @@
 # RapidSearch
-Simple Windows explorer search.
+Простой поиск в проводнике Windows.
